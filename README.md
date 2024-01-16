@@ -105,3 +105,8 @@ Platform for users to sell:
 
 ## Resources
 - [7 Open-Source DevTools That Save Time](https://dev.to/kiselitza/7-open-source-devtools-that-save-time-you-didnt-know-to-exist-5dbd)
+
+
+PaymentGateway Comparison:
+- https://www.zoho.com/books/articles/how-to-choose-the-right-payment-gateway.html
+- https://greenice.net/the-best-payment-gateway-for-ecommerce/
