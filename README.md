@@ -110,3 +110,8 @@ Platform for users to sell:
 PaymentGateway Comparison:
 - https://www.zoho.com/books/articles/how-to-choose-the-right-payment-gateway.html
 - https://greenice.net/the-best-payment-gateway-for-ecommerce/
+
+## New Ideas:
+
+1. Subscription can happen based on the what they can get from the website like an access to hackers dashboard etc.,
+2. Revenue of the users can increase based on number of subscription made to the platform. (check substack method)
