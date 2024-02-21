@@ -3,13 +3,6 @@
 ## Overview
 SkillMate is a platform where quality skills find their rightful spot, ensuring fair compensation for skilled individuals. It's the place where quality skills get paid appropriately, and where the right payment meets quality skills. Join India's leading app for connecting skilled professionals with rewarding opportunities.
 
-## Features
-- Connect with skilled professionals
-- Get fair compensation for your quality skills
-- Find the right job or gig for your expertise
-- Unlock great pay for your skills
-
-## About Us
 SkillMate is committed to revolutionizing the way skilled professionals connect with opportunities and get compensated fairly. Join us today and experience the difference!
 
 ## One Liner
@@ -22,96 +15,60 @@ SkillMate is committed to revolutionizing the way skilled professionals connect 
 - Where great pay meets quality skills.
 - India's leading app for skilled professionals.
 
-# Project Overview
+#### Pain Points (Problem Statement):
+- Underappreciated; Underrecognized.
+- Financial Struggles.
+- Unemployed/Impending Unemployment (Job Security).
+- Underemployment (Passion Decay).
+- Overworked & Office Politics.
+- Career Switching (Industry & Functions).
+- Career History Problems (Gaps, Firing, Age).
+- Knowledge Problem (Target, Interview).
 
-This repository contains the code and documentation for the Teacheron replica project, including an Entrepreneur session and the legacy Teacheron concept.
-
-## Teacheron (Old Concept)
-
-### Value
-- User registration
-- Skill identification
-- Job description [Pick my career]
-
-### Peerlist
-- Professional network
-- Profile
-- Resume
-- Download
-- Personalized Domain
-
-## SkillMate - Professional Network
-
-## SkillMate - CyberSecurity
-- Profile
-- Hall of Fame
-- Proud achievements (HTB, THM, etc.)
-- Skill levels: Beginner, Intermediate
-
-### Marketplace
-Platform for users to sell:
-- Books
-- Articles
-- Materials
-- Stocks related to cybersecurity
-
-### Payment Gateways
-- Razorpay
-- Paytm
-- Instamojo
-- PayPal
-- Skrill
-- WePay
-
-## Business Strategy (1-N)
-- Initial user base
-- Acquisition
-- Uniqueness
-- Retention
-- Monetization
-
-## Components
-- Active job
-- Passive profile
-- Skillmate
-
-# LinkedIn Integration
-
-## Resources
-- [PhantomBuster Chrome Extension](https://chromewebstore.google.com/detail/phantombuster/mdlnjfcpdiaclglfbdkbleiamdafilil)
-- [LinkedIn Scraping with Python](https://www.scraperapi.com/blog/linkedin-scraper-python/)
-- [How to Scrape Data from LinkedIn Profiles](https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven/)
-- [Scraping LinkedIn using Selenium and BeautifulSoup in Python](https://www.geeksforgeeks.org/scrape-linkedin-using-selenium-and-beautiful-soup-in-python/)
-
-# Product Update
-
-## New Features
+## Features
+- Connect with skilled professionals
+- Get fair compensation for your quality skills
+- Find the right job or gig for your expertise
+- Unlock great pay for your skills
 - Ranking system for all skills with a leadership board to highlight top designers, writers, and developers based on upvotes.
-- Resume download feature.
+- Profile/Resume download feature.
 - Skill identification.
 - ATS (Applicant Tracking System) checker.
 - Get a personalized domain name for your profile.
 - Publish your website.
 
-# ATS (Applicant Tracking System)
+## Benefits
+- Work-life balance restoration.
+- Accelerated career growth.
+- Overcoming the invisible ceiling.
 
-## ATS Resources
-- [Resume.io](https://resume.io/)
-- [PaintMinds Resume Analysis](https://www.paintminds.com/report/resume/297909)
-- [Jobscan](https://www.jobscan.co/)
-- [DXC Technology Careers](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs)
+## Employers
 
-# Hosting, Authentication & Authorization
-
-## Resources
-- [7 Open-Source DevTools That Save Time](https://dev.to/kiselitza/7-open-source-devtools-that-save-time-you-didnt-know-to-exist-5dbd)
+## Freelancers
 
 
-PaymentGateway Comparison:
-- https://www.zoho.com/books/articles/how-to-choose-the-right-payment-gateway.html
-- https://greenice.net/the-best-payment-gateway-for-ecommerce/
 
-## New Ideas:
+## New ideas
+- Subscription can happen based on the what they can get from the website like an access to freelancers dashboard etc.,
+- Revenue of the users can increase based on number of subscription made to the platform. (check substack method)
 
-1. Subscription can happen based on the what they can get from the website like an access to hackers dashboard etc.,
-2. Revenue of the users can increase based on number of subscription made to the platform. (check substack method)
+## Suggestion from Friends:
+
+1. Receive email or WhatsApp notifications for new project requirements matching your skills or specified filters on the website.
+2. Utilize webhook features to receive updates on Google Chat or Slack channels.
+3. Use an automated bot (ChatGPT) to assist in completing project requirements quickly by asking necessary questions.
+4. Filter job listings based on keywords in the project description.
+5. Enjoy a responsive chat interface for seamless communication.
+6. Platform offers guarantor services such as securing a fraction of payment from the employer to ensure safety or user authenticity.
+7. Introduce a system similar to H1 CTF for platform-verified points, enhancing credibility and trust.
+8. Ensure transparency in the bidding process and freelancer selection.
+9. Emphasize verifying the scope of work, especially for security-related projects, to prevent illegal requests.
+10. Offer a minimalistic website design with categorized services (e.g., development, pentest, soc, grc, seo, data analytics) and freelancer profiles based on ratings.
+11. Receive personalized notifications for profile and skill-based opportunities instead of random notifications.
+12. Enable connections with industry experts or friends in similar fields.
+13. Provide instant solutions for posted problems.
+14. Promote fully remote opportunities on the platform.
+15. Implement geographical restrictions to avoid irrelevant search results.
+16. Introduce a mediation system for resolving disputes between users.
+17. Offer online classes on various topics, such as marine engineering or Thirukural, allowing professionals to monetize their expertise through skill sessions or college teaching opportunities.
+
