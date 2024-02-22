@@ -1,3 +1,67 @@
+# Welcome to SkillMate
+
+## Welcome to India's Trusted Portal for Freelancing Jobs.
+
+### SKILLMATE 
+#### Where genuine skills meet great job opportunities
+
+
+# Table of Contents
+
+1. [SkillMate Overview](#overview)
+    - [Introduction to SkillMate](#overview)
+    - [The SkillMate Community](#overview)
+    - [Professional Growth with SkillMate](#overview)
+2. [SkillMate: A Simple Guide to Your Professional Growth](#skillmate-a-simple-guide-to-your-professional-growth)
+    - [Customization and Personalization](#benefits)
+    - [Skill Discovery and Promotion](#benefits)
+    - [Opportunity Matching](#benefits)
+    - [Professional Networking Tool](#benefits)
+    - [Security and Trust](#benefits)
+3. [Users](#users)
+    - [Employers (Clients)](#1-employers-clients)
+        - [Advanced Matching Algorithms](#1-employers-clients)
+        - [Time and Cost Efficiency](#1-employers-clients)
+        - [Customizable Job Postings](#1-employers-clients)
+        - [Flexible Hiring Models](#1-employers-clients)
+        - [Secure Payment System](#1-employers-clients)
+        - [Project Management Tools](#1-employers-clients)
+        - [Feedback and Rating System](#1-employers-clients)
+        - [Professional Networking](#1-employers-clients)
+        - [Real-Time Communication](#1-employers-clients)
+        - [Enhanced Productivity](#1-employers-clients)
+        - [Skill Verification](#1-employers-clients)
+    - [Freelancers](#2-freelancers)
+        - [Exposure to Diverse Projects](#2-freelancers)
+        - [Deserving Compensation](#2-freelancers)
+        - [Flexible Work Arrangements](#2-freelancers)
+        - [Personal Brand Building](#2-freelancers)
+        - [Networking with Professionals](#2-freelancers)
+        - [Advanced Job Matching](#2-freelancers)
+        - [Real-Time Communication Tools](#2-freelancers)
+        - [Feedback and Growth](#2-freelancers)
+        - [Skill Verification and Recognition](#2-freelancers)
+        - [Secure and Timely Payments](#2-freelancers)
+4. [Addressing Pain Points: How SkillMate Makes a Difference](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Finding Relevant Opportunities](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Networking Challenges](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Skill Verification and Trust Issues](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Communication Barriers](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Payment Security and Fair Compensation](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Professional Growth and Development](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Career Transition Support](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Work-Life Balance](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Dispute Resolution](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Access to a Global Workforce](#addressing-pain-points-how-skillmate-makes-a-difference)
+    - [Additional Pain Points Addressed](#addressing-pain-points-how-skillmate-makes-a-difference)
+5. [Future Enhancement](#future-enhancement)
+    - [Innovative Features (Ranking System)](#future-enhancement)
+    - [Team Building and Project Collaboration](#future-enhancement)
+    - [A Thriving Professional Community](#future-enhancement)
+    - [Learn and Grow: Educational Platform](#future-enhancement)
+    - [Master New Skills: Learning Management System (LMS)](#future-enhancement)
+
+
 # SkillMate
 
 ## Overview
