@@ -15,44 +15,46 @@ SkillMate is committed to revolutionizing the way skilled professionals connect 
 - Where great pay meets quality skills.
 - India's leading app for skilled professionals.
 
-#### Pain Points (Problem Statement):
-- Underappreciated; Underrecognized.
-- Financial Struggles.
-- Unemployed/Impending Unemployment (Job Security).
-- Underemployment (Passion Decay).
-- Overworked & Office Politics.
-- Career Switching (Industry & Functions).
-- Career History Problems (Gaps, Firing, Age).
-- Knowledge Problem (Target, Interview).
+## Users
 
-## Features
-- Connect with skilled professionals
-- Get fair compensation for your quality skills
-- Find the right job or gig for your expertise
-- Unlock great pay for your skills
-- Ranking system for all skills with a leadership board to highlight top designers, writers, and developers based on upvotes.
-- Profile/Resume download feature.
-- Skill identification.
+## 1. Freelancers
+
+## 2. Employers
+
+## Key areas
+
+### 1. Pain Points (Problem Statement):
+- Mostly many were Underappreciated; Underrecognized and Unseen.
+- Many are Unemployed/Impending Unemployment (Job Security), Underemployment (Passion Decay) and Overworked or with Office Politics.
+- Strugging in switching careers (Industry & Functions) and facing Career History Problems (Gaps, Firing, Age).
+- Knowledge Problem to meet the requirements and so there is a Lack of growth opportunities.
+- Bad relationships with boss & colleagues in office. 80% job dissatisfaction globally, average 70-80%.
+- Overall less package or less amount paid for any works given and struggling financially even with quality skills.
+
+### 2. Features
+- Identify and Connect with the right skilled professionals in your locality.
+- Find the right job for your expertise, skills and core strength
+- Unlock great pay for your skills and get a fair compensation for your quality skills
+
+### 3. Benefits
+- Work-life balance restoration, Accelerated career growth and Overcoming the invisible ceiling on you.
+- We help the seekers get to know you and your skills better to trust you for the quality of work that you offer. 
+- You will be a problem solver and be a savior for lot of the one who is on right needs.
+- We help your employer understand your core strength and get back to you with similar projects.
+
+## Future enhancement
+
+## 1. New ideas
+- Ranking system for all skills with a leadership board to highlight top designers, writers, and developers based on upvotes (for now its cyber security, techies and IT guys only)
 - ATS (Applicant Tracking System) checker.
 - Get a personalized domain name for your profile.
 - Publish your website.
-
-## Benefits
-- Work-life balance restoration.
-- Accelerated career growth.
-- Overcoming the invisible ceiling.
-
-## Employers
-
-## Freelancers
-
-
-
-## New ideas
+- Profile/Resume download feature in future
 - Subscription can happen based on the what they can get from the website like an access to freelancers dashboard etc.,
 - Revenue of the users can increase based on number of subscription made to the platform. (check substack method)
-
-## Suggestion from Friends:
+- Identify unique NEEDS of every registered users and see how we can map it everytime in our new feature rollout.
+  
+## 2. Suggestion from Friends:
 
 1. Receive email or WhatsApp notifications for new project requirements matching your skills or specified filters on the website.
 2. Utilize webhook features to receive updates on Google Chat or Slack channels.
@@ -71,4 +73,6 @@ SkillMate is committed to revolutionizing the way skilled professionals connect 
 15. Implement geographical restrictions to avoid irrelevant search results.
 16. Introduce a mediation system for resolving disputes between users.
 17. Offer online classes on various topics, such as marine engineering or Thirukural, allowing professionals to monetize their expertise through skill sessions or college teaching opportunities.
+
+
 
