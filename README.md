@@ -13,6 +13,22 @@
   <a href="4.Features.md"><img src="https://img.shields.io/badge/-Features-blue?style=for-the-badge" alt="Features"></a>
 </p>
 
+<p align="center">
+  <a href="LandingPage.md">
+    <img src="https://img.shields.io/static/v1?label=&message=Landing%20Page&color=blueviolet&style=for-the-badge" alt="Landing Page">
+  </a>
+  <a href="About.md">
+    <img src="https://img.shields.io/static/v1?label=&message=About&color=blueviolet&style=for-the-badge" alt="About">
+  </a>
+  <a href="Blog.md">
+    <img src="https://img.shields.io/static/v1?label=&message=Blog&color=blueviolet&style=for-the-badge" alt="Blog">
+  </a>
+  <a href="Features.md">
+    <img src="https://img.shields.io/static/v1?label=&message=Features&color=blueviolet&style=for-the-badge" alt="Features">
+  </a>
+</p>
+
+
 
 
 # Table of Contents
