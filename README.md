@@ -6,6 +6,15 @@
 <h4 align="center">Where genuine skills meet great job opportunities</h4>
 
 
+<p align="center">
+  <a href="LandingPage.md"><img src="https://img.shields.io/badge/-Landing%20Page-blue?style=for-the-badge" alt="Landing Page"></a>
+  <a href="About.md"><img src="https://img.shields.io/badge/-About-blue?style=for-the-badge" alt="About"></a>
+  <a href="Blog.md"><img src="https://img.shields.io/badge/-Blog-blue?style=for-the-badge" alt="Blog"></a>
+  <a href="Features.md"><img src="https://img.shields.io/badge/-Features-blue?style=for-the-badge" alt="Features"></a>
+</p>
+
+
+
 # Table of Contents
 
 1. [SkillMate Overview](#overview)
