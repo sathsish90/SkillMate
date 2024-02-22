@@ -407,3 +407,90 @@ https://drive.google.com/drive/folders/1oyZTnCwF3t4tts7vkpIJMI4NXvfcY-KH
 
 https://drive.google.com/file/d/1aBJo6ewU1FLVCd7PmAxLBEdfzGpfc7vA/view
 
+Read the github, https://github.com/sathsish90/SkillMate/blob/main/CareerFlow.md
+
+
+## Teacheron (Old Concept)
+
+### Value
+- User registration
+- Skill identification
+- Job description [Pick my career]
+
+### Peerlist
+- Professional network
+- Profile
+- Resume
+- Download
+- Personalized Domain
+
+## SkillMate - Professional Network
+
+## SkillMate - CyberSecurity
+- Profile
+- Hall of Fame
+- Proud achievements (HTB, THM, etc.)
+- Skill levels: Beginner, Intermediate
+
+### Marketplace
+Platform for users to sell:
+- Books
+- Articles
+- Materials
+- Stocks related to cybersecurity
+
+### Payment Gateways
+- Razorpay
+- Paytm
+- Instamojo
+- PayPal
+- Skrill
+- WePay
+
+## Business Strategy (1-N)
+- Initial user base
+- Acquisition
+- Uniqueness
+- Retention
+- Monetization
+
+## Components
+- Active job
+- Passive profile
+- Skillmate
+
+# LinkedIn Integration
+
+## Resources
+- [PhantomBuster Chrome Extension](https://chromewebstore.google.com/detail/phantombuster/mdlnjfcpdiaclglfbdkbleiamdafilil)
+- [LinkedIn Scraping with Python](https://www.scraperapi.com/blog/linkedin-scraper-python/)
+- [How to Scrape Data from LinkedIn Profiles](https://www.linkedin.com/pulse/how-easy-scraping-data-from-linkedin-profiles-david-craven/)
+- [Scraping LinkedIn using Selenium and BeautifulSoup in Python](https://www.geeksforgeeks.org/scrape-linkedin-using-selenium-and-beautiful-soup-in-python/)
+
+# Product Update
+
+## New Features
+- Ranking system for all skills with a leadership board to highlight top designers, writers, and developers based on upvotes.
+- Resume download feature.
+- Skill identification.
+- ATS (Applicant Tracking System) checker.
+- Get a personalized domain name for your profile.
+- Publish your website.
+
+# ATS (Applicant Tracking System)
+
+## ATS Resources
+- [Resume.io](https://resume.io/)
+- [PaintMinds Resume Analysis](https://www.paintminds.com/report/resume/297909)
+- [Jobscan](https://www.jobscan.co/)
+- [DXC Technology Careers](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs)
+
+# Hosting, Authentication & Authorization
+
+## Resources
+- [7 Open-Source DevTools That Save Time](https://dev.to/kiselitza/7-open-source-devtools-that-save-time-you-didnt-know-to-exist-5dbd)
+
+
+PaymentGateway Comparison:
+- https://www.zoho.com/books/articles/how-to-choose-the-right-payment-gateway.html
+- https://greenice.net/the-best-payment-gateway-for-ecommerce/
