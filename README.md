@@ -1,9 +1,9 @@
-# Welcome to SkillMate
+<h1 align="center">Welcome to SkillMate</h1>
 
-## Welcome to India's Trusted Portal for Freelancing Jobs.
+<h2 align="center">Welcome to India's Trusted Portal for Freelancing Jobs.</h2>
 
-### SKILLMATE 
-#### Where genuine skills meet great job opportunities
+<h3 align="center">SKILLMATE</h3>
+<h4 align="center">Where genuine skills meet great job opportunities</h4>
 
 
 # Table of Contents
